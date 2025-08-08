@@ -9,6 +9,7 @@ Downlaod link: https://bwsyncandshare.kit.edu/s/GtWYdcHckJNtRzJ
 
 ## Directory Structure
 
+```
 root ──  dataset ─── 50Salads/...
       │           ├─ Breakfast/...
       │           └─ MPII_Cooking ─── features/
